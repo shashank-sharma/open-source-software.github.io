@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Welcome</title>
+		      <!--Import Google Icon Font-->
+      <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+      <!--Import materialize.css-->
+      <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+          <link rel="stylesheet" type="text/css" href="css/file.css">
+</head>
+<body>
+<nav>
+	<div class="nav-wrapper">
+	</div>
+</nav>
+<!--Import jQuery before materialize.js-->
+      <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+      <script type="text/javascript" src="js/materialize.min.js"></script>
+      <script type="text/javascript" src="js/file.js"></script>
+     <div class="row">
+     <div class="container">
+     <div class="col s12">
+     	<h1>What is Open Source Software ?</h1>
+     	<hr>
+     	<h5>
+     	Open-source software (OSS) is computer software with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose. Open-source software may be developed in a collaborative public manner. Open-source software is the most prominent example of open-source development.</h5>
+
+     </div>
+     <hr>
+     </div>
+     	<div class="col s12">
+     	<h3 class="center-align"><p>Q. Why develop free open source programs :</p>
+     		<i class="large material-icons">code</i>
+     		</h3>
+     		<h5>
+     		<p>
+     		For small projects, reasons might be "hobby", "getting some experience", "fame", "joy" etc. but that's not how the big open source projects like Mozilla, OpenOffice, Linux work.</p>
+<p>
+Why did Sun buy StarDivision and made StarOffice an open source program (called OpenOffice.org)? Why does Mozilla create a top-notch browser and give it away as open source? Why are there people creating Linux, writing drivers and whatnot, and make it available to everyone for free? Why does Microsoft create opensource drivers for Linux so it can run better in MS's virtualisation?</p>
+<p>
+Because it makes some business sense for them. They make money that way, or at least plan to.</p>
+<p>
+In some cases, the dominance of MS's products, i.e. Windows, Office, Internet Explorer, was the reason the create a competing product, so it would be harder for MS to use their desktop dominance to conquer other domains, i.e. servers, internet services, too. This explains, to some extend, OpenOffice.org and Mozilla.</p>
+<p>
+In other cases, open source software is meant to drive sales of hardware, other software or services. Open Source drivers obviously help to sell hardware components to Linux users. RedHat sells support for their Linux distro, and they sell the fact that their Linux is genuine RedHat. Other products, e.g. Oracle, are certified for use on Redhat, but not on CentOS, even though it probably runs just-as-well. Server hardware is certified for Redhat, even though other linux distros probably run just-as-well. Big-money-clients don't care about the price, they want the certificate.</p>
+<p>
+Some companies, e.g. Google, sponsor many open source projects, because it helps their business. They don't do it for altruism. They want a free internet, a pervasive internet, a widespread internet, where people use Google's services so Google generates revenue.</p>
+</h5>
+     		This is copied from Stackexchange site 
+     	</div>
+     	<hr>
+     	     	<div class="col s12" >
+     	     	<div class="center-align">
+     	     		<h1>Why to join Open Source Community ?</h1>
+     	     	</div>
+     	<div class="col s12 m6 l3">
+     	<h4 class="center-align">
+      	<i class="large material-icons">language</i>  
+      	<p>To promote open source software and make it available to others</p> 
+      	</h4> 		
+     	</div>
+     	<div class="col s12 m6 l3">
+     	<h4 class="center-align">
+      	<i class="large material-icons">stars</i>  
+     	<p>To gain more experience in programming</p>
+     	</h4>
+     	</div>
+     	<div class="col s12 m6 l3">
+     	<h4 class="center-align">
+     	<i class="large material-icons">group_work</i>
+     	<p>To be a part of any new project and work together</p>
+     	</h4>
+     	</div>
+     	<div class="col s12 m6 l3">
+     	<h4 class="center-align">
+     	<i class="large material-icons">games</i>
+     	<p>Because it is fun :-)</p>
+     	</h4>
+     	</div>
+     	</div>
+     	<hr>
+     	<div class="col s12">
+     		<h2 class="center-align"><p>Skills you may need to start your journey in open source world</p>
+     		<i class="large material-icons">code</i>
+     		</h2>
+     		<hr>
+     		<div class="col s12 m6 l3">
+     	<h4 class="center-align">
+     	<p>Python</p>
+     	</h4>
+     	<center>
+     	<a href = "https://www.codecademy.com/learn/python" target="_blank"><button class="btn waves-effect waves-light" type="submit" name="action">Link</button></a>
+     	</center>
+     	</div>
+     	<div class="col s12 m6 l3">
+     	<h4 class="center-align">
+     	<p>C++</p>
+     	</h4>
+     	<center>
+     	<a href = "http://www.learn-c.org/" target="_blank"><button class="btn waves-effect waves-light" type="submit" name="action">Link</button></a>
+     	</center>
+     	</div><div class="col s12 m6 l3">
+     	<h4 class="center-align">
+     	<p>HTML & CSS</p>
+     	</h4>
+     	<center>
+     	<a href = "https://www.codecademy.com/learn/web" target="_blank"><button class="btn waves-effect waves-light" type="submit" name="action">Link</button></a>
+     	</center>
+     	</div>
+     	<div class="col s12 m6 l3">
+     	<h4 class="center-align">
+     	<p>Javascript</p>
+     	</h4>
+     	<center>
+     	<a href = "https://www.codecademy.com/learn/javascript" target="_blank"><button class="btn waves-effect waves-light" type="submit" name="action">Link</button></a>
+     	</center>
+     	</div>
+
+     	</div>
+     	<div class="col s12">
+     	<hr>
+     	<div class="container">
+     	<center>
+     		<h1> How can I contribue ?</h1>
+     		
+     		<h5>Contributing in any Open Source Community is easy.</h5>
+     		</h5>
+     		</center>
+     		<hr>
+     	<div class="col s6">
+     	<br>
+     	<i class="large material-icons">search</i>
+     	</div>
+     	<div class="col s6">
+     	<h1>Search</h1>
+     	<h5>Find any open source community</h5>
+     	</div>
+     	<hr>
+     	<div class="col s6">
+     	<i class="large material-icons">forum</i>
+     	</div>
+     	<div class="col s6">
+     	<h1>Contact them</h1>
+     	<h5>Join IRC channel and try to communicate with them</h5>
+     	</div>
+     	<hr>
+     	<div class="col s6">
+     	<i class="large material-icons">assignment</i>
+     	</div>
+     	<div class="col s6">
+     	<h1>Pick any task</h1>
+     	<h5>Work on any one project where you are comfortable with</h5>
+     	</div>
+     	<hr>
+     	<div class="col s6">
+     	<i class="large material-icons">done_all</i>
+     	</div>
+     	<div class="col s6">
+     	<h1>Get it approved</h1>
+     	<h5>Once you are done with your work, get it approved</h5>
+     	</div>
+     	<hr>
+     	<center>
+     	<i class="large material-icons">thumb_up</i>
+     	<h1>Now you officially contributed to Open source Community</h1>
+     	<h5>Click here to learn more</h5>
+     	<a href = "https://wiki.gnome.org/" target="_blank"><button class="btn waves-effect waves-light" type="submit" name="action">Link</button></a>
+     	</center>
+
+
+     	</div>
+     	</div>
+     	<!--?????????????????????????????????????????????????????????????????????????????????????????????-->
+     	       <div class="col s12" id= "ninth">
+       <center>
+       <h3 style="color: #ffffff;">Thanks for visiting !<br> If you have any suggestion then</h3>
+       <p style="text-align:center;">
+      <a href = "https://github.com/shashank-sharma/shashank-sharma.github.io" target="_blank"><img src="img/github.png" ></a>
+      </p>
+      <center>
+      <h1 style="color: #ffffff;">Fork me !</h1>
+      
+        </div>
+               <div class="col s12">
+               <div class="col s6">
+               <div class="container">
+               <br>
+      <a href = "https://github.com/shashank-sharma/shashank-sharma.github.io" target="_blank"><img src="img/acro.png" height="200px" width="250px"></a>
+      </div>
+      </div>
+      <div class="col s6">
+      <h5>
+      This project was supported by :
+      </h5>
+      <h2 class="center-align">
+      Acropolis Technical Campus, Indore
+      </h2>
+      </div>
+      
+        </div>
+     </div>
+     <hr>
+         <div class = "row">
+    <div class="col s12" id = "zero">
+     <div class = "col s6">
+     	<img src="img/shashank.jpg" alt="" class="circle responsive-img" height = "200px" width = "200px">
+     </div>
+     <div class="col s6">
+     	<h3>About me!</h3>
+     	Hi, my name is<b> Shashank Sharma</b> and I am student of Acropolis Technical Campus. Currently I am studying Python programming language and recenty had some experience with C++ language. I also contributed in many open source organiztion like FOSSASIA and Ubuntu and these both helped me to gain experience
+     	and knowledge<br>
+     </div>
+    	
+    </div>
+    </div>
+    <div class="fixed-action-btn" style="bottom: 45px; right: 24px;">
+    <a class="btn-floating btn-large red">
+      <i class="large material-icons">mode_edit</i>
+    </a>
+    <ul>
+      <li><a class="btn-floating red google" href = "https://plus.google.com/u/0/106849872049927606828" target = "_blank"></a></li>
+      <li><a class="btn-floating black github" href = "https://github.com/shashank-sharma/" target = "_blank"></a></li>
+      <li><a class="btn-floating blue facebook" href = "https://www.facebook.com/shashank.sharma.902" target = "_blank"></a></li>
+    </ul>
+  </div>
+  <div class="col s12" id= "fourth">
+  <h1 style="color:white;">Loved this site ? Feel free to visit my webpage :</h1>
+  <a href = "http://shashank-sharma.github.io/" target="_blank"><button class="btn waves-effect waves-light" type="submit" name="action">Link</button></a>
+
+  </div>
+</body>
+</html>
